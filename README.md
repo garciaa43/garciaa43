@@ -1,5 +1,5 @@
+Hello there I am Gabriel Garcia👋
 
-<!---
-garciaa43/garciaa43 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![Gabriel Garcia](https://github-readme-stats.vercel.app/api?username=garciaa43&hide=contribs,prs)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
