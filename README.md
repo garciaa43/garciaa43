@@ -1,4 +1,4 @@
-Hello there I am Gabriel Garcia👋
+## Hello there I am Gabriel Garcia👋
 
 ![Gabriel Garcia](https://github-readme-stats.vercel.app/api?username=garciaa43&hide=contribs,prs)
 
