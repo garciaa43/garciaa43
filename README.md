@@ -66,7 +66,7 @@ Driven by **professional growth**, **real-world challenges**, **and constant imp
   <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=garciaa43&layout=compact&theme=tokyonight" />
 </p>
 
-
+---
 
 ⭐ If you like my work, consider starring a repository  
 🤝 Always open to collaborations, partnerships, and cool ideas
