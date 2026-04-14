@@ -62,8 +62,9 @@ Driven by **professional growth**, **real-world challenges**, **and constant imp
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=garciaa43&show_icons=true&theme=tokyonight&count_private=true&cache_seconds=10" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=garciaa43&layout=compact&theme=tokyonight&cache_seconds=10" />
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=garciaa43&show_icons=true&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=garciaa43&layout=compact&theme=tokyonight" />
+</p>
 
 
 
