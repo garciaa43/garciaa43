@@ -1,75 +1,77 @@
-# Hi 👋, I'm Gabriel Garcia
+<h1>Hi 👋, I'm Gabriel Garcia</h1>
 
-🚀 **Junior developer | Java, JavaScript & Node**  
-🇧🇷 Brazil
+<h3>🚀 Junior Developer | Java, JavaScript & Node</h3>
+<p>🇧🇷 Brazil</p>
 
-Focused on **clean code**, **continuous learning**, and **building efficient solutions** for businesses.
-
-Driven by **professional growth**, **real-world challenges**, **and constant improvement in software development**.
+<p>
+  Focused on <b>clean code</b>, <b>continuous learning</b>, and <b>building efficient solutions</b> for businesses.<br>
+  Driven by <b>professional growth</b>, <b>real-world challenges</b>, and <b>constant improvement</b> in software development.
+</p>
 
 ---
 
 ## 🌐 Where to find me
 
-<p align="left">
-  <a href="https://github.com/garciaa43">
-    <img src="https://img.shields.io/badge/GitHub-GARCIAA43-181717?style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://instagram.com/g.garciia4">
-    <img src="https://img.shields.io/badge/Instagram-@G.GARCIIA4-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/gabriel-garcia-386b6a238/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+<p>
+  <a href="https://github.com/garciaa43"><img src="https://img.shields.io/badge/GitHub-garciaa43-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="https://instagram.com/g.garciia4"><img src="https://img.shields.io/badge/Instagram-@g.garciia4-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+  <a href="https://www.linkedin.com/in/SEU-USUARIO-AQUI"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </p>
 
 ---
 
-##  🧠 What I do
--   🧑‍💻 Junior developer seeking internship or junior opportunities
--   🧱 Focused on object-oriented back-end development
--   🗄️ Building well-structured databases with solid logic
--   ⚙️ Writing clean, organized, and maintainable code
--   📚 Constantly improving through study and real projects
--   🔍 Problem-solving with attention to logic and efficiency
--   🤝 Eager to learn, collaborate, and grow in a team environment
--   🚀 Motivated to help companies while developing my skills
+## 🧠 What I do
+
+- 👨‍💻 Junior developer seeking internship or junior opportunities
+- 🧱 Focused on object-oriented back-end development
+- 🗄️ Building well-structured databases with solid logic
+- ⚙️ Writing clean, organized, and maintainable code
+- 📚 Constantly improving through study and real projects
+- 🔍 Problem-solving with attention to logic and efficiency
+- 🤝 Eager to learn, collaborate, and grow in a team environment
+- 🚀 Motivated to help companies while developing my skills
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Frontend
+**Frontend**
 
-![JavaScript](https://img.shields.io/badge/JavaScript-FFD43B?style=for-the-badge&logo=javascript&logoColor=000)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![Tailwind](https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge&logo=tailwindcss)
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
+  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="TailwindCSS">
+</p>
 
-### Backend
+**Backend**
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql)
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
+</p>
 
-### DevOps & Tools
+**DevOps & Tools**
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma)
-![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
+  <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" alt="Trello">
+</p>
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="left">
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=garciaa43&show_icons=true&theme=tokyonight" />
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=garciaa43&layout=compact&theme=tokyonight" />
+<p>
+  <img src="profile/stats.svg" alt="GitHub stats" height="165">
+  <img src="profile/top-langs.svg" alt="Top languages" height="165">
 </p>
 
 ---
 
-⭐ If you like my work, consider starring a repository  
+⭐ If you like my work, consider starring a repository<br>
 🤝 Always open to collaborations, partnerships, and cool ideas
